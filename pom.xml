@@ -12,6 +12,7 @@
         <module>minio</module>
         <module>DesignPatterns</module>
         <module>Semaphore</module>
+        <module>Dubbo</module>
     </modules>
 
     <properties>
